@@ -1,4 +1,7 @@
-- 📚 I’m currently teach myself developing frontend
-- 🚲 I love bikeriding
-- 👗 sewing and 
-- 🥝 🍌 🥭 🍓 🍒 🍑 🍐 🍇 🍍 🍉
+📚 I’m currently teach myself developing frontend
+
+🚲 I love bikeriding
+
+👗 sewing and 
+
+🥝 🍌 🥭 🍓 🍒 🍑 🍐 🍇 🍍 🍉
